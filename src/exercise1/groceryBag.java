@@ -12,7 +12,7 @@ public class groceryBag {
 			Item.add("Bacon");
 			Item.add("Cheddar cheese");
 			Item.add("soup");
-			Item.add("Milk");
+			Item.add("Beans");
 			Item.add("Chocolate bar");
 			Item.add("Strawberries");
 			Item.add("Bananas");
